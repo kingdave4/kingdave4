@@ -1,14 +1,13 @@
 ## 👋 Hello, My name is David — Cloud & DevOps Engineer
 
-I’m a **Cloud & DevOps Engineer** specializing in Azure and a little bit AWS. I hold the Microsoft Certified: Azure Administrator Associate (AZ-104) certification, and I build data lakes, APIs, and scalable infrastructure with Python, Terraform, and CI/CD.
+I’m a Cloud & DevOps Engineer specializing in Azure and a little bit AWS. I hold the Microsoft Certified: Azure Administrator Associate (AZ-104) certification, and I build data lakes, APIs, and scalable infrastructure with Python, Terraform, and CI/CD.
 
 ---
 
 ## 🛠️ Core Skills & Technologies
 
 ### Cloud Platforms
-- **Microsoft Azure**: Resource Manager, Functions, Synapse, Blob Storage, Azure virtual machone.
-- **Amazon Web Services**: S3, EC2, IAM, Lambda  
+- **Microsoft Azure**: Resource Manager, Functions, Synapse, Blob Storage, Azure virtual machone.  
 
 ### Infrastructure as Code & Automation
 - **Terraform** & **Azure Resource Manager (ARM) Templates**  

@@ -9,6 +9,6 @@ I’m a Cloud & DevOps Engineer with a passion for building automated, resilient
 
 ---
 
-## 📈 GitHub Stats & 📊 Most Used Languages
+## 📈 GitHub Stats                            & 📊 Most Used Languages
 ![kingdave4's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingdave4&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kingdave4&layout=compact&hide_progress=false&theme=radical)

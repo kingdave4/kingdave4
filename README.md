@@ -9,7 +9,7 @@ I’m a Cloud & DevOps Engineer with a passion for building automated, resilient
 
 
 ## 🤝 Let’s connect!
-Check out my site: ![davidmboli-idie.com](https://www.davidmboli-idie.com/)
+Check out my site: [davidmboli-idie.com](https://www.davidmboli-idie.com/)
 Drop me a message - I'm open to collaboration and nerdy conversations about cloud or AI.
 
 ---

@@ -7,6 +7,11 @@ I’m a Cloud & DevOps Engineer with a passion for building automated, resilient
 - 📚 Always learning and open to collaboration on interesting projects.
 - 🌱 Currently working on personal and collaborative open-source projects.
 
+
+🤝 Let’s connect!
+Check out my site: https://www.davidmboli-idie.com/
+Drop me a message - I'm open to collaboration and nerdy conversations about cloud or AI.
+
 ---
 
 ## 📈 GitHub Stats                            & 📊 Most Used Languages

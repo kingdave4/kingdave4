@@ -8,4 +8,4 @@ I’m a Cloud & DevOps Engineer with a passion for building automated, resilient
 * **Hugo Portfolio & Blog**: Deployed my personal site using Hugo, GitHub, and Terraform on Azure. Tech Stack: Hugo, Terraform, Azure, GitHub Actions
 * **Foci-Solutions Todo App**: Collaborated on a Vue/Vite frontend and Node/Express backend; containerized and deployed with Kubernetes and Azure Static Web Apps (frontend) + Azure Container Instances (backend) via Terraform and Azure DevOps.
 
-I love tackling cloud challenges—whether it’s spinning up a data lake, crafting CI/CD pipelines, or enabling real-time observability—and I’m always excited to explore new tools and architectures to optimize performance, security, and reliability.
+I love tackling cloud challenges, whether it’s spinning up a data lake, crafting CI/CD pipelines, or enabling real-time observability and I’m always excited to explore new tools and architectures to optimize performance, security, and reliability.

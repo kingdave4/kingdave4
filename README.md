@@ -8,10 +8,10 @@ I’m a Cloud & DevOps Engineer with a passion for building automated, resilient
 * **Azure NBA Data Lake**: Provisioning a complete Azure Data Lake and automating NBA data ingestion with Azure Functions. Tech Stack: Azure, Terraform, Azure Function App, Python, Key Vault, Synapse, Application Insights
 * **Foci-Solutions Todo App**: Collaborated on a Vue/Vite frontend and Node/Express backend; containerized and deployed with Kubernetes and Azure Static Web Apps (frontend) + Azure Container Instances (backend) via Terraform and Azure DevOps.
 
-I love tackling cloud challenges, whether it’s spinning up a data lake, crafting CI/CD pipelines, or enabling real-time observability and I’m always excited to explore new tools and architectures to optimize performance, security, and reliability.
+ and I’m always excited to explore new tools and architectures to optimize performance, security, and reliability.
 
 ## 🚀 About Me
-- 💻 I love coding in multiple languages and exploring new tech.
+- 💻 I love working on Cloud/Devops project, and I tackling cloud challenges, whether it’s building infrastructure with using Terraform or Bicep, crafting CI/CD pipelines, or enabling real-time observability 
 - 📚 Always learning and open to collaboration on interesting projects.
 - 🌱 Currently working on personal and collaborative open-source projects.
 
